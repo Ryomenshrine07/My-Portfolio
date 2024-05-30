@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.9560ed83.css",
+    "main.js": "/My-Portfolio/static/js/main.bba5a4c1.js",
+    "static/media/MyImage.png": "/My-Portfolio/static/media/MyImage.3ae636aa2268a098cedb.png",
+    "static/media/BackGroundVideo.mp4": "/My-Portfolio/static/media/BackGroundVideo.3d136275663f06c4cdf9.mp4",
+    "static/media/java_basic certificate.png": "/My-Portfolio/static/media/java_basic certificate.22c3d4506d9f3520e94b.png",
+    "static/media/css certificate.png": "/My-Portfolio/static/media/css certificate.40d96577365d5e3398ef.png",
+    "static/media/problem_solving_basic certificate.png": "/My-Portfolio/static/media/problem_solving_basic certificate.c66bd9708d29ced569d8.png",
+    "static/media/javascript_basic certificate.png": "/My-Portfolio/static/media/javascript_basic certificate.43fd747d523609f8830e.png",
+    "static/media/Programming In Java.png": "/My-Portfolio/static/media/Programming In Java.08e51feda7580414f999.png",
+    "static/media/Portfolio_Image.png": "/My-Portfolio/static/media/Portfolio_Image.3bbc8fe68ff7f9c7a2e4.png",
+    "static/media/instagram_icon.png": "/My-Portfolio/static/media/instagram_icon.e719d8b29f452a16302d.png",
+    "static/media/linkedin_icon.png": "/My-Portfolio/static/media/linkedin_icon.d21b834035baa551e886.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.9560ed83.css.map": "/My-Portfolio/static/css/main.9560ed83.css.map",
+    "main.bba5a4c1.js.map": "/My-Portfolio/static/js/main.bba5a4c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9560ed83.css",
+    "static/js/main.bba5a4c1.js"
+  ]
+}
